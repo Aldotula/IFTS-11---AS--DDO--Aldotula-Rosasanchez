@@ -1,4 +1,5 @@
 #SISTEMA DE TURNOS PELUQUERIA
+# EQUIPO: ROSA SANCHEZ, ALDO TULA, CRISTIAN RINCON
 import csv
 from datetime import datetime
 
