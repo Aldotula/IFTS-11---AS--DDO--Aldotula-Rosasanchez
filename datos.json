@@ -1,0 +1,40 @@
+{
+    "clientes": [
+        {
+            "id_cliente": "C01",
+            "nombre": "ALDO",
+            "apellido": "TULA",
+            "telefono": "S"
+        },
+        {
+            "id_cliente": "C02",
+            "nombre": "ROSA",
+            "apellido": "SANCHEZ",
+            "telefono": "1136784217"
+        }
+    ],
+    "turnos": [
+        {
+            "id_turno": "T01",
+            "id_cliente": "C01",
+            "nombre_cliente": "ALDO",
+            "apellido_cliente": "TULA",
+            "nombre_profesional": "JORGE",
+            "servicio": "Corte",
+            "fecha": "2025-11-25",
+            "hora": "09:30",
+            "duracion": 30
+        },
+        {
+            "id_turno": "T02",
+            "id_cliente": "C02",
+            "nombre_cliente": "ROSA",
+            "apellido_cliente": "SANCHEZ",
+            "nombre_profesional": "MARIA",
+            "servicio": "Alisado",
+            "fecha": "2025-11-26",
+            "hora": "09:30",
+            "duracion": 120
+        }
+    ]
+}
