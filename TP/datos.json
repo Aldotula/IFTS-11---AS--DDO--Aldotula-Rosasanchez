@@ -1,0 +1,23 @@
+{
+    "clientes": [
+        {
+            "id_cliente": "C01",
+            "nombre": "ALDO",
+            "apellido": "TULA",
+            "telefono": "2622238681"
+        }
+    ],
+    "turnos": [
+        {
+            "id_turno": "T02",
+            "id_cliente": "C01",
+            "nombre_cliente": "ALDO",
+            "apellido_cliente": "TULA",
+            "nombre_profesional": "JORGE",
+            "servicio": "Barba",
+            "fecha": "2025-11-26",
+            "hora": "09:30",
+            "duracion": 30
+        }
+    ]
+}

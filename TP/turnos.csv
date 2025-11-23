@@ -1,0 +1,2 @@
+id_turno;id_cliente;nombre_cliente;apellido_cliente;nombre_profesional;servicio;fecha;hora;duracion
+T02;C01;ALDO;TULA;JORGE;Barba;2025-11-26;09:30;30
